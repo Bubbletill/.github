@@ -13,5 +13,8 @@ Bubbletill is composed of 6 software components:
 The heart of a Bubbletill store is the controller: it runs the Backend API and local databases.
 
 **Development not yet started.*
+
+<br>
+Bubbletill was initially made in Java, but due to limitations with JavaFX I am re-writing the suite for WPF using .NET Core 6.
 <br><br>
 Enjoy looking around my shoddy code! ❤️

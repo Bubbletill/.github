@@ -1,11 +1,11 @@
 ## Welcome to Bubbletill 2.0 ✨
 
-Bubbletill is a Point of Sale solution powered by Java at the front end and Python at the backend.
+Bubbletill is a Point of Sale solution powered by .NET Core.
 <br><br>
 Bubbletill is composed of 6 software components:
 - Point of Sale - The application that members of staff interact with to complete sales.
-- Back Office - The application that members of management interact with to view analytics, manager user accounts, view transactions and more. This application can be found on the POS devices and launched through the POS application.
-- Backend - Flask server running on the controller in each store, handing API requests.
+- Back Office* - The application that members of management interact with to view analytics, manager user accounts, view transactions and more. This application can be found on the POS devices and launched through the POS application.
+- Controller-API - API service, ran on a Bubbletill Controller, for database interactions.
 - Shell - C# application to replace Windows Explorer on the POS devices.
 - MyBT* - A web UI that allows customers to view e-receipts and their spending in-store.
 - MyStore* - A web UI that allows for head office staff to view the analytics for each store and manage the configuration of all POS devices.

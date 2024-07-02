@@ -9,10 +9,4 @@ Bubbletill is composed of 6 software components:
 - MyBT* - A web UI that allows customers to view e-receipts and their spending in-store.
 - MyStore* - A web UI that allows for head office staff to view the analytics for each store and manage the configuration of all POS devices.
 
-The heart of a Bubbletill store is the controller: it runs the Controller API and the primary database.
-
 **Development not yet started.*
-
-Bubbletill was initially made in Java, but due to limitations with JavaFX I am re-writing the suite for WPF using .NET Core 6.
-<br><br>
-Enjoy looking around my shoddy code! ❤️
